@@ -1,6 +1,6 @@
 # ─── ⚡ 04_COMMON_VULNERABILITIES / РАСПРОСТРАНЕННЫЕ ВЕКТОРЫ SQLi ───
 
-*(!) Важно отметить, что у каждой СУБД есть свой уникальный синтаксис. Все критически важные архитектурные отличия подробно описаны в модулях [01_Theory_DB](./01_Theory_DB.md) и [03_Resources_and_Cheatsheets](./03_Resources_and_Cheatsheets.md).*
+*(!) Важно отметить, что у каждой СУБД есть свой уникальный синтаксис. Все критически важные архитектурные отличия подробно описаны в модулях [01_Theory_DB](./https://github.com/htfvl/SQL-Language-Handbook/tree/main/01_Theory_DB) и [02_Resources_and_Cheatsheets](./https://github.com/htfvl/SQL-Language-Handbook/tree/main/02_Resources_and_Cheatsheets).*
 
 Существует множество разновидностей уязвимостей SQL-инъекций, атак и техник, которые возникают в различных ситуациях в зависимости от логики приложения и конфигурации бэкенда.
 
